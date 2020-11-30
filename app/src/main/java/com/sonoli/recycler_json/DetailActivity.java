@@ -15,7 +15,6 @@ import static com.sonoli.recycler_json.MainActivity.EXTRA_URL;
 
 public class DetailActivity extends AppCompatActivity {
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
